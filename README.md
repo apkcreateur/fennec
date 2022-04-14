@@ -2,12 +2,10 @@
 
 A new Flutter project.
 social app 
+like instagram
 
 ## Getting Started
 
+get your firebase file ;
+then build your app 
 
-the source code is copied from an website i don't remembre who is ;
-
-now for me i don't know what i do in firebase and firestore,
- 
- is just like instagrame but no video just text and photo .
